@@ -275,48 +275,6 @@
     },
     {
       "id": 27,
-      "name": "Anabelle",
-      "kind": "dog",
-      "weight": 4912,
-      "height": 42,
-      "length": 120,
-      "photo_url": "https://cdn2.thedogapi.com/images/GGxeNU9xg.jpg",
-      "description": "I am bekom fat smol borking doggo with a long snoot for pats"
-    },
-    {
-      "id": 28,
-      "name": "Ursula",
-      "kind": "cat",
-      "weight": 4284,
-      "height": 22,
-      "length": 52,
-      "photo_url": "https://cdn2.thecatapi.com/images/MTYyODkzNQ.jpg",
-      "description": "Slap owner's face at 5am",
-      "number_of_lives": 4
-    },
-    {
-      "id": 29,
-      "name": "Hobbit",
-      "kind": "dog",
-      "weight": 12899,
-      "height": 39,
-      "length": 99,
-      "photo_url": "https://cdn2.thedogapi.com/images/r1H6feqEm_1280.jpg",
-      "description": "Smol tungg doggorino woofer fluffer"
-    },
-    {
-      "id": 30,
-      "name": "Surge",
-      "kind": "cat",
-      "weight": 4090,
-      "height": 24,
-      "length": 46,
-      "photo_url": "https://cdn2.thecatapi.com/images/MTY1MTg4MA.jpg",
-      "description": "Fall over dead (not really but gets sypathy)",
-      "number_of_lives": 6
-    },
-    {
-      "id": 31,
       "name": "Pufflinx",
       "kind": "bird",
       "weight": 320,
@@ -328,7 +286,7 @@
       "num_of_feathers": 156
     },
     {
-      "id": 32,
+      "id": 28,
       "name": "Galoomph",
       "kind": "bird",
       "weight": 800,
@@ -340,7 +298,7 @@
       "num_of_feathers": 88
     },
     {
-      "id": 33,
+      "id": 29,
       "name": "Lumithorn",
       "kind": "bird",
       "weight": 600,
@@ -352,7 +310,7 @@
       "num_of_feathers": 244
     },
     {
-      "id": 34,
+      "id": 30,
       "name": "Plumeclaw",
       "kind": "bird",
       "weight": 1500,
